@@ -1,4 +1,5 @@
-# widget_slider
+# Fundamental Flutter by ArdhikaRafi
+# Widget_slider
 
 A new Flutter project.
 
